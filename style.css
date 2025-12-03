@@ -77,3 +77,9 @@ a:hover {
     position: relative;
     display: inline-block;
 }
+
+.hamburger-icon {
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
