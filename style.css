@@ -84,4 +84,5 @@ a:hover {
     justify-content: space-between;
     height: 24px;
     width: 30px;
+    cursor: pointer;
 }
